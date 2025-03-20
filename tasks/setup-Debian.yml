@@ -19,3 +19,4 @@
       {{ ansible_distribution_release | lower }} contrib
     state: present
     update_cache: true
+
